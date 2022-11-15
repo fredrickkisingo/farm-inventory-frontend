@@ -1,1 +1,1 @@
-Frontend web application for the farm inventory management app
+Frontend web application for the farm inventory management app built using react
